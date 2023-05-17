@@ -15,7 +15,7 @@ const sentences = [
   ["You are NOT my aunt's nephew (Informal)", "T\xfa NO eres el sobrino de mi t\xeda", "You NO/NOT (you)\xa0are the nephew of/from my aunt", "Usted es sobrina", "You (he/she/it)\xa0is niece"],
   ["0 isn't a number", "0 no es un n\xfamero", "0 no/not is a/one number", "una", "a/one"],
   ["Congratulations! Your teeth are now green! (Informal)", "\xa1Felicitaciones! \xa1Tus dientes ya son verdes!", "Congratulations! Your teeth now (they/you\xa0all)\xa0are green!", "\xa1Tu verde!", "Your green!"],
-  ["I was just going shopping for 75 oranges", "Yo estaba s\xf3lo comprando 75 naranjas", "I (I/he/she)\xa0was only buying 75 oranges", "\xc9l", "He/him"],
+  ["I was just going shopping for 75 oranges", "Yo estaba solo comprando 75 naranjas", "I (I/he/she)\xa0was only buying 75 oranges", "\xc9l", "He/him"],
   ["He said that, no?", "\xc9l lo dijo, \xbfno?", "He/him him/it said, no?", "Ella", "She/her"],
 ];
 
